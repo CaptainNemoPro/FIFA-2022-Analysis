@@ -1,6 +1,6 @@
 # FIFA-2022-Analysis
 
-[!alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fifa.com%2Fnews%2Ffifa-world-cup-qatar-2022tm-official-emblem-revealed&psig=AOvVaw0Uf3Gk03bB0UYJC7COiu1x&ust=1684218754050000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIC6lvnZ9v4CFQAAAAAdAAAAABAH)
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fifa.com%2Fnews%2Ffifa-world-cup-qatar-2022tm-official-emblem-revealed&psig=AOvVaw0Uf3Gk03bB0UYJC7COiu1x&ust=1684218754050000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIC6lvnZ9v4CFQAAAAAdAAAAABAH)
 
 If you're a football enthusiast and interested in discovering the top players in various skills like defense, tackling, attacking, dribbling, and goalkeeping, I highly recommend exploring this FIFA dataset analysis I've conducted. It's an excellent project for identifying the current best players in each of these abilities for your team.
 
@@ -26,7 +26,7 @@ Following people could be a good user of this project and dataset.
 
 # Insights
 
-[!alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fillustration%2Finsights.html&psig=AOvVaw0P52Pqn_PbyWugaXv43-XS&ust=1684218710172000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLD8kOTZ9v4CFQAAAAAdAAAAABAD)
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fillustration%2Finsights.html&psig=AOvVaw0P52Pqn_PbyWugaXv43-XS&ust=1684218710172000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLD8kOTZ9v4CFQAAAAAdAAAAABAD)
 
 1. The earnings of players are directly related to their reputation, which means that players with a higher reputation earn more. However, it appears that players with a score of 5 are earning less than those with a score of 4. Let's examine the potential reasons for this.
 
@@ -36,4 +36,4 @@ Following people could be a good user of this project and dataset.
 
 4. Since our goal is to hire the best players in every position, it is reasonable to assume that we will be paying a considerable sum to these players. Based on the data, E. Halland is the best choice for an attacking finisher, although we have other options, they may be too expensive given the high salaries we will be paying to other top players.
 
-[!alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fifa.com%2Ffifaplus%2Fen%2Ftournaments%2Fmens%2Fworldcup%2Fqatar2022&psig=AOvVaw0Uf3Gk03bB0UYJC7COiu1x&ust=1684218754050000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIC6lvnZ9v4CFQAAAAAdAAAAABAP)
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fifa.com%2Ffifaplus%2Fen%2Ftournaments%2Fmens%2Fworldcup%2Fqatar2022&psig=AOvVaw0Uf3Gk03bB0UYJC7COiu1x&ust=1684218754050000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIC6lvnZ9v4CFQAAAAAdAAAAABAP)
